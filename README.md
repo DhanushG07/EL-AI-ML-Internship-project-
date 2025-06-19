@@ -9,9 +9,9 @@
 This project builds an **AI-powered virtual career counsellor** that analyzes users’ skills and interests to recommend suitable career options using Natural Language Processing (NLP) and Machine Learning. The system is trained on real-world data and deployed via a Streamlit chatbot interface for real-time use.
 
 ## Project Structure
-AI_Virtual_Career_Counsellor/
+AI_Virtual_Career_Counsellor/       
 │
-├── data/   
+├── data/       
 │ └── AI-based Career Recommendation System.csv     
 │         
 ├── models/       
@@ -30,10 +30,8 @@ AI_Virtual_Career_Counsellor/
 - Python 3
 - Pandas
 - Scikit-learn
-- CountVectorizer
-- LabelEncoder
-- Naive Bayes Classifier
-- Streamlit (for UI)
+- [Kaggle](https://www.kaggle.com/datasets/adilshamim8/ai-based-career-recommendation-system)
+- [Kaggle](https://www.kaggle.com/datasets/tea340yashjoshi/skill-and-career-recommendation-dataset)
 - [Google Colab](https://colab.research.google.com/drive/1A48wgk3vSnNxJWM1fTZBtDdQ1VriscuO?usp=sharing)
 
 ## How It Works
@@ -50,20 +48,12 @@ AI_Virtual_Career_Counsellor/
 `Interests: Problem Solving, Technology`
 
 > **Output:**  
-🔮 Recommended Career: **Data Analyst**
+Recommended Career: **Data Analyst**
 
-## 📄 Project Report
-
-The final project summary is available here: [`report.pdf`](./report.pdf)
-
-
-## 👨‍💻 Author
+## Author
 
 - **Dhanush G**  
   BBA Student | Aspiring Data Scientist  
-  📧 dhanushg0710@gmail.com  
-  🔗 [LinkedIn](https://www.linkedin.com/in/dhanush-g-805492345)
+  dhanushg0710@gmail.com  
+  [LinkedIn](https://www.linkedin.com/in/dhanush-g-805492345)
 
-
-## 🔗 Deployment (Optional)
-- [Google Colab Notebook]
